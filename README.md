@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+Before getting Start:
+
+# npm install -D tailwindcss
+  npx tailwindcss init
+# npm install react-loader-spinner --save
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
