@@ -1,0 +1,25 @@
+.btn2nd {
+  display: flex;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #6616d0, #ac34e7, #FFDAB9);
+  border: none;
+  border-radius: 10px;
+  color: #FFFFFF;
+  position: relative;
+  text-align: center;
+  font-size: 22px;
+  padding: 20px;
+  width: 250px;
+  height: auto;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 8px;  
+  display: block;
+
+}
+
+.btn2nd:hover {
+  background: #36007c;
+  box-shadow: whitesmoke;
+}
+ 

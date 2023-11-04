@@ -1,0 +1,23 @@
+
+.btn1st {
+  display: inline-block;
+  border-radius: 4px;
+  background: #306EFF;
+  border: none;
+  border-radius: 10px;
+  color: #FFFFFF;
+  position: relative;
+  text-align: center;
+  font-size: 22px;
+  padding: 20px;
+  width: 250px;
+  height: auto;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 8px;  
+  display: block; 
+}
+
+.btn1st:hover {
+background: #16E2F5;
+}
